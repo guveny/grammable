@@ -1,7 +1,9 @@
 class Gram < ApplicationRecord
+ mount_uploader :picture, PictureUploader
+  validates :message, presence: true
+  validates :picture, presence: true
+  has_many :comments
 
-              validates :message, presence: true
-
-              belongs_to :user
+  belongs_to :user
 
 end
