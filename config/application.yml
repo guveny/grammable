@@ -1,4 +1,4 @@
 AWS_ACCESS_KEY: "AKIAJKKWWILAIVPFV5FQ"
 AWS_SECRET_KEY: "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"
-AWS_BUCKET: "gy-grams"
+AWS_BUCKET: "gy-flixter"
 AWS_REGION: "us-east-1"
