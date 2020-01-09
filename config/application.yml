@@ -1,0 +1,5 @@
+
+AWS_ACCESS_KEY: "xx"
+AWS_SECRET_KEY: "xx"
+AWS_BUCKET: "gy-grams"
+AWS_REGION: "us-east-1"
